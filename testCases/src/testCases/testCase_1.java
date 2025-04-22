@@ -2,7 +2,7 @@ package testCases;
 //Designed by Tortoise
 /*
 Test Name: Reading a File
-Please read the [TestCase1 Section] in 'testCases/src/testCases/README.md'
+Please read the [TestCase1 Section] in 'README.md'
 for information regarding the usage, expected results
 and anything else relevant.
 **Only edit where it's marked 'EDIT THIS:'
