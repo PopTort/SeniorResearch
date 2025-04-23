@@ -50,6 +50,19 @@
       <recent name="testCases" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="testCases" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="testCases" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,6 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745361188816</updated>
       <workItem from="1745361189994" duration="6213000" />
+      <workItem from="1745368003882" duration="626000" />
     </task>
     <servers />
   </component>
