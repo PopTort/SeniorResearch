@@ -56,3 +56,24 @@ Goal: Print the output as a counter counts down from a set total till 0
 ...
 5
 0
+
+---
+
+# Prompt Related Information
+### There are 5 prompts 1 for each test case
+The prompts were carefully crafted in order to mention all the key information that would be required to write the code. The goal with each one of the prompts below was to require the least intervention as possible, however any changes required were noted below each prompt.
+
+## Prompt 1:
+** ~ **
+
+## Prompt 2:
+** ~ **
+
+## Prompt 3:
+** ~ **
+
+## Prompt 4:
+** ~ **
+
+## Prompt 5:
+** ~ **
