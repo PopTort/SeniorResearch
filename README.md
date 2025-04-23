@@ -64,16 +64,16 @@ Goal: Print the output as a counter counts down from a set total till 0
 The prompts were carefully crafted in order to mention all the key information that would be required to write the code. The goal with each one of the prompts below was to require the least intervention as possible. Any invervention or complications will be noted inside of the **Results** section of this page
 
 ## Prompt 1:
-** You will write a function in Java that takes a File as an input and prints off every line that is inside of that file **
+**You will write a function in Java that takes a File as an input and prints off every line that is inside of that file**
 
 ## Prompt 2:
-** You will write a function in Java that takes 2 integers that you assume are measurements of 2 angles of the same triangle. You will then print out the measurement of the third unknown angle **
+**You will write a function in Java that takes 2 integers that you assume are measurements of 2 angles of the same triangle. You will then print out the measurement of the third unknown angle**
 
 ## Prompt 3:
-** You will write a function in Java that takes and automatically sorts an Array of unsorted english words. **
+**You will write a function in Java that takes and automatically sorts an Array of unsorted english words.**
 
 ## Prompt 4:
-** You will write a function in Java that takes automatically sorts an Array of unordered integers from least to greatest **
+**You will write a function in Java that takes automatically sorts an Array of unordered integers from least to greatest**
 
 ## Prompt 5:
-** You will write a function in Java that will count down from a specific total at a specific rate and print out every integer the counter lands on. The function will take a 'countBy' and 'total' input **
+**You will write a function in Java that will count down from a specific total at a specific rate and print out every integer the counter lands on. The function will take a 'countBy' and 'total' input**
