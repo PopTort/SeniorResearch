@@ -29,9 +29,13 @@ public class testCase_5 {
 
 
     public static void aiGeneratedFunction(int countBy, int total) {
-        /*
-        AI GENERATED CODE GOES HERE
-         */
+        if (countBy <= 0) {
+            System.out.println("CountBy must be greater than zero.");
+            return;
+        }
 
+        for (int i = total; i >= 0; i -= countBy) {
+            System.out.println(i);
+        }
     }
 }

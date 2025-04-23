@@ -9,6 +9,8 @@ and anything else relevant.
  */
 
 
+import java.util.Arrays;
+
 public class testCase_3 {
     public static void main(String[] args) {
 
@@ -26,9 +28,6 @@ public class testCase_3 {
 
 
     public static void aiGeneratedFunction(String[] unsortedList) {
-        /*
-        AI GENERATED CODE GOES HERE
-         */
 
     }
 }

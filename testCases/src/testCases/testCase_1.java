@@ -9,14 +9,16 @@ and anything else relevant.
  */
 
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 
 public class testCase_1 {
     public static void main(String[] args) {
         //File to read
         //Do not change this, but give this address to the AI
-        File file = new File("/testCase1-testfile.txt");
+        File file = new File("testCase1-testfile.txt");
 
         //File object will be passed so keep in consideration
         aiGeneratedFunction(file);
@@ -27,9 +29,13 @@ public class testCase_1 {
 
 
     public static void aiGeneratedFunction(File file) {
-        /*
-        AI GENERATED CODE GOES HERE
-         */
-
+        try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
+            String line;
+            while ((line = reader.readLine()) != null) {
+                System.out.println(line);
+            }
+        } catch (IOException e) {
+            System.err.println("An error occurred while reading the file: " + e.getMessage());
+        }
     }
 }

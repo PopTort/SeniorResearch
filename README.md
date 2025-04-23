@@ -77,3 +77,9 @@ The prompts were carefully crafted in order to mention all the key information t
 
 ## Prompt 5:
 **You will write a function in Java that will count down from a specific total at a specific rate and print out every integer the counter lands on. The function will take a 'countBy' and 'total' input**
+
+
+---
+
+# Results Section
+*Raw Results Excel Sheet can be found in the root folder, in the file "ResultsExcelSheet.xlsx"
