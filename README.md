@@ -81,5 +81,5 @@ The prompts were carefully crafted in order to mention all the key information t
 
 ---
 
-# Results Section
-*Raw Results Excel Sheet can be found in the root folder, in the file "ResultsExcelSheet.xlsx"
+## Results Section
+*Figures, Charts and Raw Data Results can be found in the **/Resources** folder.*
